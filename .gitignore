@@ -1,0 +1,8 @@
+local.properties
+
+# Gradle and Android build output
+.gradle/
+**/build/
+
+# IDE metadata
+.idea/
